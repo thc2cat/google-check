@@ -13,7 +13,7 @@ import (
 
 func main() {
 
-	pattern := flag.String("p", "site:uvsq.fr viagra", "google search pattern.")
+	pattern := flag.String("p", "site:google.com viagra", "google search pattern.")
 	limit := flag.Int("min", 19, "minimal webhosts links limit for reporting")
 	ignore := flag.String("i", "", "ignore regexp")
 	verbose := flag.Bool("v", false, "verbose mode")

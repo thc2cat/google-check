@@ -10,7 +10,7 @@ Usage of main.exe:
   -min int
         minimal web hosts links limit for reporting (default 19)
   -p string
-        google search pattern. (default "site:uvsq.fr viagra")
+        google search pattern. (default "site:google.fr viagra")
   -v    verbose mode
 ```
 
